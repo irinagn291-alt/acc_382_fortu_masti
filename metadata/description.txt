@@ -1,0 +1,5 @@
+Guide the tiger to a golden gate or command the wardens and hold the pass. Fortu Masti is an asymmetric board game for iPhone and iPad. Play as the tiger against device-controlled wardens in Solo, or share the board and take turns controlling opposite sides in Two players.
+
+Move along linked points on a 5 × 5 board. The tiger can leap over an adjacent warden to an empty point on the same line, removing the warden. Rocks block movement. The tiger can escape through either gate, even on its last allowed move. The wardens win by trapping the tiger or running down its move allowance.
+
+The Pass atlas previews six starting layouts, each with its own arrangement of pieces, rocks and gates. It also shows your fewest moves for a solo escape on each pass. Open the illustrated Field rules from the table to look up moves, objectives and controls. Your current crossing is saved on the device so you can resume it later.

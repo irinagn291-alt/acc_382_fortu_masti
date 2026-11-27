@@ -1,0 +1,5 @@
+Conduza o tigre até um portão dourado ou comande os guardas para defender a passagem. Fortu Masti é um jogo de tabuleiro assimétrico para iPhone e iPad. No modo solo, você controla o tigre e o dispositivo move os guardas. No modo para dois jogadores, cada pessoa controla um lado e joga na sua vez no mesmo tabuleiro.
+
+A partida acontece em uma rede de 5 × 5 pontos conectados. O tigre pode saltar sobre um guarda adjacente até um ponto vazio na mesma linha, retirando o guarda do tabuleiro. Rochas bloqueiam o caminho. O tigre vence ao chegar a qualquer um dos portões, mesmo na última jogada permitida. Os guardas vencem se encurralarem o tigre ou se ele esgotar seu limite de movimentos.
+
+Consulte o atlas para conhecer seis passagens com diferentes posições iniciais, rochas e portões. O atlas registra o menor número de movimentos usados para escapar de cada passagem no modo solo. Abra o guia ilustrado de regras pelo tabuleiro e retome a partida que ficou salva no dispositivo.

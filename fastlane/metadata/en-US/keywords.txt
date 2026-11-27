@@ -1,0 +1,1 @@
+board game,strategy,tiger,wardens,turn based,local multiplayer,solo,escape
