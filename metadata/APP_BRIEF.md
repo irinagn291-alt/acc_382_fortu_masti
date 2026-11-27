@@ -1,4 +1,4 @@
-<!-- gf-brief source=ed60d0708fe873c34554623980d5bfec399d6ad973740a4c26c51de95ced11c0 written=2026-11-27T14:56:40+03:00 -->
+<!-- gf-brief source=ed60d0708fe873c34554623980d5bfec399d6ad973740a4c26c51de95ced11c0 written=2026-11-27T14:59:58+03:00 -->
 # Fortu Masti
 
 An asymmetric tabletop strategy game for one or two players sharing an iPhone or iPad. An ochre tiger crosses a mountain pass while ivory wardens try to hold it. Each of the six passes has its own rocks, gates, starting formation and turn limit.
